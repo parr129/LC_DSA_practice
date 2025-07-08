@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 ## Math
@@ -30,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
