@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/parr129/LC_DSA_practice/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
+| [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 ## Backtracking
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
