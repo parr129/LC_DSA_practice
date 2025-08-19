@@ -19,7 +19,7 @@ class Solution {
             st.push(nums2[i]);
         }
 
-        // Build result for nums1
+        //Build result for nums1
         int[] res = new int[nums1.length];
         for (int i = 0; i < nums1.length; i++) {
             res[i] = value.get(nums1[i]);
