@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/parr129/LC_DSA_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/parr129/LC_DSA_practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/parr129/LC_DSA_practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/parr129/LC_DSA_practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/parr129/LC_DSA_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/parr129/LC_DSA_practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
