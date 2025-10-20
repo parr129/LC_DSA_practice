@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/parr129/LC_DSA_practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/parr129/LC_DSA_practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/parr129/LC_DSA_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/parr129/LC_DSA_practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/parr129/LC_DSA_practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/parr129/LC_DSA_practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/parr129/LC_DSA_practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0039-combination-sum) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/parr129/LC_DSA_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/parr129/LC_DSA_practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/parr129/LC_DSA_practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/parr129/LC_DSA_practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parr129/LC_DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/parr129/LC_DSA_practice/tree/master/0141-linked-list-cycle) |
