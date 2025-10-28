@@ -10,7 +10,7 @@ class Solution {
             int digit = x % 10;
             reversedHalf = reversedHalf * 10 + digit;
             x = x / 10;
-        }
+        }//show 
 
         
         return x == reversedHalf || x == reversedHalf / 10;
