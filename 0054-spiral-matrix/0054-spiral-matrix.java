@@ -9,7 +9,7 @@ class Solution {
         while(rs<=re && cs<=ce){
             for(int i=cs;i<=ce;i++){
                 list.add(matrix[rs][i]);
-            }
+            }//
             rs++;
             for(int i=rs;i<=re;i++){
                 list.add(matrix[i][ce]);
