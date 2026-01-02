@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parr129/LC_DSA_practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0118-pascals-triangle) |
 ## Memoization
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
 ## String Matching
 |  |
 | ------- |
