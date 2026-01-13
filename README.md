@@ -125,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
+| [0310-minimum-height-trees](https://github.com/parr129/LC_DSA_practice/tree/master/0310-minimum-height-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
+| [0310-minimum-height-trees](https://github.com/parr129/LC_DSA_practice/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/parr129/LC_DSA_practice/tree/master/0595-big-countries) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/parr129/LC_DSA_practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/parr129/LC_DSA_practice/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/parr129/LC_DSA_practice/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
