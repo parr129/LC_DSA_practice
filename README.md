@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parr129/LC_DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/parr129/LC_DSA_practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/parr129/LC_DSA_practice/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/parr129/LC_DSA_practice/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/parr129/LC_DSA_practice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0118-pascals-triangle) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/parr129/LC_DSA_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/parr129/LC_DSA_practice/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
