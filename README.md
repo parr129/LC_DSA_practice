@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/parr129/LC_DSA_practice/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/parr129/LC_DSA_practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
+| [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
