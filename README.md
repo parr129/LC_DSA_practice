@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/parr129/LC_DSA_practice/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/parr129/LC_DSA_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parr129/LC_DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parr129/LC_DSA_practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/parr129/LC_DSA_practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 ## String Matching
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
