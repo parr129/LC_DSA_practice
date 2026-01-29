@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parr129/LC_DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/parr129/LC_DSA_practice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parr129/LC_DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parr129/LC_DSA_practice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/parr129/LC_DSA_practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0063-unique-paths-ii) |
@@ -74,7 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parr129/LC_DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/parr129/LC_DSA_practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0300-longest-increasing-subsequence) |
-| [0312-burst-balloons](https://github.com/parr129/LC_DSA_practice/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
@@ -119,7 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parr129/LC_DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0300-longest-increasing-subsequence) |
-| [0312-burst-balloons](https://github.com/parr129/LC_DSA_practice/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/parr129/LC_DSA_practice/tree/master/0025-reverse-nodes-in-k-group) |
 ## Two Pointers
