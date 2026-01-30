@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/parr129/LC_DSA_practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/parr129/LC_DSA_practice/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/parr129/LC_DSA_practice/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/parr129/LC_DSA_practice/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/parr129/LC_DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/parr129/LC_DSA_practice/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/parr129/LC_DSA_practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/parr129/LC_DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0120-triangle) |
