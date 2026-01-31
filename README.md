@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/parr129/LC_DSA_practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/parr129/LC_DSA_practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/parr129/LC_DSA_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parr129/LC_DSA_practice/tree/master/0070-climbing-stairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/parr129/LC_DSA_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0060-permutation-sequence) |
 ## Two Pointers
 |  |
 | ------- |
