@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
+| [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parr129/LC_DSA_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/parr129/LC_DSA_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/parr129/LC_DSA_practice/tree/master/0792-binary-search) |
