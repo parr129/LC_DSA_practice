@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/parr129/LC_DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/parr129/LC_DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 ## Heap (Priority Queue)
 |  |
@@ -414,10 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Combinatorics
 |  |
 | ------- |
@@ -437,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parr129/LC_DSA_practice/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/parr129/LC_DSA_practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
