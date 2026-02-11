@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parr129/LC_DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parr129/LC_DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/parr129/LC_DSA_practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/parr129/LC_DSA_practice/tree/master/0141-linked-list-cycle) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/parr129/LC_DSA_practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/parr129/LC_DSA_practice/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/parr129/LC_DSA_practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/parr129/LC_DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/parr129/LC_DSA_practice/tree/master/0046-permutations) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parr129/LC_DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/parr129/LC_DSA_practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/parr129/LC_DSA_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/parr129/LC_DSA_practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0064-minimum-path-sum) |
