@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parr129/LC_DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parr129/LC_DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/parr129/LC_DSA_practice/tree/master/0141-linked-list-cycle) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/parr129/LC_DSA_practice/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parr129/LC_DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parr129/LC_DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/parr129/LC_DSA_practice/tree/master/0038-count-and-say) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parr129/LC_DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/parr129/LC_DSA_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
