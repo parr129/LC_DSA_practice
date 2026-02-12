@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/parr129/LC_DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/parr129/LC_DSA_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
