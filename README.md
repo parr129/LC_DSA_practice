@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/parr129/LC_DSA_practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/parr129/LC_DSA_practice/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/parr129/LC_DSA_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/parr129/LC_DSA_practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/parr129/LC_DSA_practice/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/parr129/LC_DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/parr129/LC_DSA_practice/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/parr129/LC_DSA_practice/tree/master/0686-repeated-string-match) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/parr129/LC_DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/parr129/LC_DSA_practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/parr129/LC_DSA_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/parr129/LC_DSA_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/parr129/LC_DSA_practice/tree/master/0207-course-schedule) |
