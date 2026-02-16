@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/parr129/LC_DSA_practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/parr129/LC_DSA_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parr129/LC_DSA_practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/parr129/LC_DSA_practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0052-n-queens-ii) |
 | [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/parr129/LC_DSA_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/parr129/LC_DSA_practice/tree/master/0093-restore-ip-addresses) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/parr129/LC_DSA_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/parr129/LC_DSA_practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
