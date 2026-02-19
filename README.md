@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/parr129/LC_DSA_practice/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/parr129/LC_DSA_practice/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/parr129/LC_DSA_practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parr129/LC_DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parr129/LC_DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/parr129/LC_DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/parr129/LC_DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Design
 |  |
