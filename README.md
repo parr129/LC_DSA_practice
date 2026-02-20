@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/parr129/LC_DSA_practice/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/parr129/LC_DSA_practice/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/parr129/LC_DSA_practice/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/parr129/LC_DSA_practice/tree/master/0093-restore-ip-addresses) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/parr129/LC_DSA_practice/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/parr129/LC_DSA_practice/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/parr129/LC_DSA_practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parr129/LC_DSA_practice/tree/master/0078-subsets) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/parr129/LC_DSA_practice/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
