@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parr129/LC_DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/parr129/LC_DSA_practice/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/parr129/LC_DSA_practice/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/parr129/LC_DSA_practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/parr129/LC_DSA_practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/parr129/LC_DSA_practice/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/parr129/LC_DSA_practice/tree/master/0062-unique-paths) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 ## Binary Search
