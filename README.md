@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/parr129/LC_DSA_practice/tree/master/0432-all-oone-data-structure) |
+| [0480-sliding-window-median](https://github.com/parr129/LC_DSA_practice/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0480-sliding-window-median](https://github.com/parr129/LC_DSA_practice/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parr129/LC_DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/parr129/LC_DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/parr129/LC_DSA_practice/tree/master/0480-sliding-window-median) |
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/parr129/LC_DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
+| [0480-sliding-window-median](https://github.com/parr129/LC_DSA_practice/tree/master/0480-sliding-window-median) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Data Stream
