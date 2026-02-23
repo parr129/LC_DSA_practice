@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/parr129/LC_DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/parr129/LC_DSA_practice/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parr129/LC_DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/parr129/LC_DSA_practice/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/parr129/LC_DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/parr129/LC_DSA_practice/tree/master/0198-house-robber) |
