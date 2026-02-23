@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/parr129/LC_DSA_practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/parr129/LC_DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parr129/LC_DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parr129/LC_DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/parr129/LC_DSA_practice/tree/master/0130-surrounded-regions) |
