@@ -40,7 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parr129/LC_DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parr129/LC_DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0032-longest-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/parr129/LC_DSA_practice/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
@@ -101,7 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parr129/LC_DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0010-regular-expression-matching) |
-| [0032-longest-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parr129/LC_DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
@@ -386,7 +384,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parr129/LC_DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parr129/LC_DSA_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
