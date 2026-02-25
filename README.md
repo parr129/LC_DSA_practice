@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
+| [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parr129/LC_DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parr129/LC_DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/parr129/LC_DSA_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1901-find-a-peak-element-ii) |
