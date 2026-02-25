@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
+| [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/parr129/LC_DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [0994-rotting-oranges](https://github.com/parr129/LC_DSA_practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parr129/LC_DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 ## Simulation
 |  |
 | ------- |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parr129/LC_DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parr129/LC_DSA_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/0496-next-greater-element-i) |
+| [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/parr129/LC_DSA_practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/parr129/LC_DSA_practice/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
+| [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
 |  |
