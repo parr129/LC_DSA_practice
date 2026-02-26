@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/parr129/LC_DSA_practice/tree/master/0120-triangle) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/parr129/LC_DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/parr129/LC_DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/parr129/LC_DSA_practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/parr129/LC_DSA_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
