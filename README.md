@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1901-find-a-peak-element-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Backtracking
 |  |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/parr129/LC_DSA_practice/tree/master/0761-special-binary-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## String Matching
 |  |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/parr129/LC_DSA_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/parr129/LC_DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/parr129/LC_DSA_practice/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/parr129/LC_DSA_practice/tree/master/0715-range-module) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
 |  |
@@ -765,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -772,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parr129/LC_DSA_practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Shortest Path
 |  |
 | ------- |
