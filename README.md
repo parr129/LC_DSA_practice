@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/parr129/LC_DSA_practice/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/parr129/LC_DSA_practice/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/parr129/LC_DSA_practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
+| [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
@@ -814,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
@@ -848,4 +853,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
