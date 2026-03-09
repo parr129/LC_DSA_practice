@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/parr129/LC_DSA_practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/parr129/LC_DSA_practice/tree/master/0233-number-of-digit-one) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/parr129/LC_DSA_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0403-frog-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0416-partition-equal-subset-sum) |
@@ -842,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
