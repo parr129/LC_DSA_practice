@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/parr129/LC_DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/parr129/LC_DSA_practice/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/parr129/LC_DSA_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parr129/LC_DSA_practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/parr129/LC_DSA_practice/tree/master/0785-is-graph-bipartite) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parr129/LC_DSA_practice/tree/master/0733-flood-fill) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/parr129/LC_DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/parr129/LC_DSA_practice/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
