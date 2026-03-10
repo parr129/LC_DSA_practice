@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/parr129/LC_DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0336-palindrome-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/parr129/LC_DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/parr129/LC_DSA_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parr129/LC_DSA_practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parr129/LC_DSA_practice/tree/master/0733-flood-fill) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/parr129/LC_DSA_practice/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/parr129/LC_DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/parr129/LC_DSA_practice/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
