@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/parr129/LC_DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/parr129/LC_DSA_practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0336-palindrome-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/parr129/LC_DSA_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parr129/LC_DSA_practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/parr129/LC_DSA_practice/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/parr129/LC_DSA_practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/parr129/LC_DSA_practice/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/parr129/LC_DSA_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/parr129/LC_DSA_practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/parr129/LC_DSA_practice/tree/master/0233-number-of-digit-one) |
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/parr129/LC_DSA_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0224-basic-calculator](https://github.com/parr129/LC_DSA_practice/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
