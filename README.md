@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/parr129/LC_DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/parr129/LC_DSA_practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0336-palindrome-pairs) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parr129/LC_DSA_practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/parr129/LC_DSA_practice/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Linked List
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parr129/LC_DSA_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/parr129/LC_DSA_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/parr129/LC_DSA_practice/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/parr129/LC_DSA_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
