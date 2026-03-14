@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/parr129/LC_DSA_practice/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/parr129/LC_DSA_practice/tree/master/0273-integer-to-english-words) |
+| [0335-self-crossing](https://github.com/parr129/LC_DSA_practice/tree/master/0335-self-crossing) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/parr129/LC_DSA_practice/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/parr129/LC_DSA_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0335-self-crossing](https://github.com/parr129/LC_DSA_practice/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/parr129/LC_DSA_practice/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -912,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/parr129/LC_DSA_practice/tree/master/0187-repeated-dna-sequences) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/parr129/LC_DSA_practice/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
