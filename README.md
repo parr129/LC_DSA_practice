@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/parr129/LC_DSA_practice/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/parr129/LC_DSA_practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/parr129/LC_DSA_practice/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/parr129/LC_DSA_practice/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/parr129/LC_DSA_practice/tree/master/0354-russian-doll-envelopes) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/parr129/LC_DSA_practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
 | [0321-create-maximum-number](https://github.com/parr129/LC_DSA_practice/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/parr129/LC_DSA_practice/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
