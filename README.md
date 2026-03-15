@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/parr129/LC_DSA_practice/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/parr129/LC_DSA_practice/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
+| [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/parr129/LC_DSA_practice/tree/master/0587-erect-the-fence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/parr129/LC_DSA_practice/tree/master/0648-replace-words) |
