@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/parr129/LC_DSA_practice/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/parr129/LC_DSA_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/parr129/LC_DSA_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/parr129/LC_DSA_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/parr129/LC_DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/parr129/LC_DSA_practice/tree/master/0217-contains-duplicate) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/parr129/LC_DSA_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/parr129/LC_DSA_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/parr129/LC_DSA_practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/parr129/LC_DSA_practice/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/parr129/LC_DSA_practice/tree/master/0432-all-oone-data-structure) |
 ## Recursion
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/parr129/LC_DSA_practice/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/parr129/LC_DSA_practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0432-all-oone-data-structure](https://github.com/parr129/LC_DSA_practice/tree/master/0432-all-oone-data-structure) |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/parr129/LC_DSA_practice/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/parr129/LC_DSA_practice/tree/master/0432-all-oone-data-structure) |
 ## Trie
 |  |
