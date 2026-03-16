@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2296-design-a-text-editor](https://github.com/parr129/LC_DSA_practice/tree/master/2296-design-a-text-editor) |
 ## Sorting
 |  |
 | ------- |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/parr129/LC_DSA_practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/parr129/LC_DSA_practice/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/parr129/LC_DSA_practice/tree/master/0432-all-oone-data-structure) |
+| [2296-design-a-text-editor](https://github.com/parr129/LC_DSA_practice/tree/master/2296-design-a-text-editor) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parr129/LC_DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
+| [2296-design-a-text-editor](https://github.com/parr129/LC_DSA_practice/tree/master/2296-design-a-text-editor) |
 ## Simulation
 |  |
 | ------- |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/parr129/LC_DSA_practice/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
+| [2296-design-a-text-editor](https://github.com/parr129/LC_DSA_practice/tree/master/2296-design-a-text-editor) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parr129/LC_DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
@@ -813,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/parr129/LC_DSA_practice/tree/master/0715-range-module) |
 | [0745-prefix-and-suffix-search](https://github.com/parr129/LC_DSA_practice/tree/master/0745-prefix-and-suffix-search) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
+| [2296-design-a-text-editor](https://github.com/parr129/LC_DSA_practice/tree/master/2296-design-a-text-editor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -908,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/parr129/LC_DSA_practice/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/parr129/LC_DSA_practice/tree/master/0432-all-oone-data-structure) |
+| [2296-design-a-text-editor](https://github.com/parr129/LC_DSA_practice/tree/master/2296-design-a-text-editor) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parr129/LC_DSA_practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
