@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/parr129/LC_DSA_practice/tree/master/1416-restore-the-array) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parr129/LC_DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/parr129/LC_DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
 | ------- |
