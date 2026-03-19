@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
+| [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/parr129/LC_DSA_practice/tree/master/1416-restore-the-array) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parr129/LC_DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
+| [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 ## Rolling Hash
 |  |
 | ------- |
