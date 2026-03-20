@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Memoization
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/parr129/LC_DSA_practice/tree/master/1377-frog-position-after-t-seconds) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/parr129/LC_DSA_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3133-minimum-array-end](https://github.com/parr129/LC_DSA_practice/tree/master/3133-minimum-array-end) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Doubly-Linked List
 |  |
@@ -984,4 +988,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0335-self-crossing](https://github.com/parr129/LC_DSA_practice/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/parr129/LC_DSA_practice/tree/master/0587-erect-the-fence) |
+## Enumeration
+|  |
+| ------- |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 <!---LeetCode Topics End-->
