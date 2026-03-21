@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/parr129/LC_DSA_practice/tree/master/0906-super-palindromes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 ## Simulation
 |  |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/parr129/LC_DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
@@ -922,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/parr129/LC_DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parr129/LC_DSA_practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
