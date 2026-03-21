@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/parr129/LC_DSA_practice/tree/master/0745-prefix-and-suffix-search) |
 | [0761-special-binary-string](https://github.com/parr129/LC_DSA_practice/tree/master/0761-special-binary-string) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/parr129/LC_DSA_practice/tree/master/0587-erect-the-fence) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0834-sum-of-distances-in-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
 | [0968-binary-tree-cameras](https://github.com/parr129/LC_DSA_practice/tree/master/0968-binary-tree-cameras) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parr129/LC_DSA_practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/parr129/LC_DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/parr129/LC_DSA_practice/tree/master/0875-koko-eating-bananas) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/parr129/LC_DSA_practice/tree/master/0792-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parr129/LC_DSA_practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/parr129/LC_DSA_practice/tree/master/0875-koko-eating-bananas) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parr129/LC_DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parr129/LC_DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
