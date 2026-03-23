@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parr129/LC_DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/parr129/LC_DSA_practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/parr129/LC_DSA_practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/parr129/LC_DSA_practice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/parr129/LC_DSA_practice/tree/master/0127-word-ladder) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/parr129/LC_DSA_practice/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/parr129/LC_DSA_practice/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/parr129/LC_DSA_practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/parr129/LC_DSA_practice/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/parr129/LC_DSA_practice/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/parr129/LC_DSA_practice/tree/master/0079-word-search) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parr129/LC_DSA_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/parr129/LC_DSA_practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/parr129/LC_DSA_practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/parr129/LC_DSA_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/parr129/LC_DSA_practice/tree/master/0148-sort-list) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/parr129/LC_DSA_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/parr129/LC_DSA_practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/parr129/LC_DSA_practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/parr129/LC_DSA_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
