@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/parr129/LC_DSA_practice/tree/master/0745-prefix-and-suffix-search) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/parr129/LC_DSA_practice/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0895-maximum-frequency-stack](https://github.com/parr129/LC_DSA_practice/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/parr129/LC_DSA_practice/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/parr129/LC_DSA_practice/tree/master/0715-range-module) |
+| [0895-maximum-frequency-stack](https://github.com/parr129/LC_DSA_practice/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [1649-create-sorted-array-through-instructions](https://github.com/parr129/LC_DSA_practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0715-range-module](https://github.com/parr129/LC_DSA_practice/tree/master/0715-range-module) |
 | [0745-prefix-and-suffix-search](https://github.com/parr129/LC_DSA_practice/tree/master/0745-prefix-and-suffix-search) |
+| [0895-maximum-frequency-stack](https://github.com/parr129/LC_DSA_practice/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Heap (Priority Queue)
