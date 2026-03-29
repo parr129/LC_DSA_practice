@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parr129/LC_DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/parr129/LC_DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/parr129/LC_DSA_practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/parr129/LC_DSA_practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1901-find-a-peak-element-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1901-find-a-peak-element-ii) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/parr129/LC_DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -991,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
+| [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Doubly-Linked List
