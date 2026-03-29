@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1416-restore-the-array](https://github.com/parr129/LC_DSA_practice/tree/master/1416-restore-the-array) |
 ## Sorting
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parr129/LC_DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1125-smallest-sufficient-team](https://github.com/parr129/LC_DSA_practice/tree/master/1125-smallest-sufficient-team) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parr129/LC_DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1125-smallest-sufficient-team](https://github.com/parr129/LC_DSA_practice/tree/master/1125-smallest-sufficient-team) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/parr129/LC_DSA_practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0677-map-sum-pairs) |
 | [0745-prefix-and-suffix-search](https://github.com/parr129/LC_DSA_practice/tree/master/0745-prefix-and-suffix-search) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## Bucket Sort
 |  |
 | ------- |
