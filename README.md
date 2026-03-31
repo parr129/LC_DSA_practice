@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/parr129/LC_DSA_practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
