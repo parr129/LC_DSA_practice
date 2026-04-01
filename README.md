@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/parr129/LC_DSA_practice/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/parr129/LC_DSA_practice/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/parr129/LC_DSA_practice/tree/master/0517-super-washing-machines) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
