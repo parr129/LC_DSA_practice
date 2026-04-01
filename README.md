@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/parr129/LC_DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0514-freedom-trail](https://github.com/parr129/LC_DSA_practice/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/parr129/LC_DSA_practice/tree/master/0564-find-the-closest-palindrome) |
+| [0591-tag-validator](https://github.com/parr129/LC_DSA_practice/tree/master/0591-tag-validator) |
 | [0648-replace-words](https://github.com/parr129/LC_DSA_practice/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/parr129/LC_DSA_practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0677-map-sum-pairs) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/parr129/LC_DSA_practice/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/parr129/LC_DSA_practice/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/0496-next-greater-element-i) |
+| [0591-tag-validator](https://github.com/parr129/LC_DSA_practice/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
