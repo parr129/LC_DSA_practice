@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
+| [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/parr129/LC_DSA_practice/tree/master/0906-super-palindromes) |
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
+| [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
+| [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parr129/LC_DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
+| [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/parr129/LC_DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
+| [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
