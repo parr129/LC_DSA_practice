@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parr129/LC_DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/parr129/LC_DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parr129/LC_DSA_practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
 ## Data Stream
