@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1192-critical-connections-in-a-network](https://github.com/parr129/LC_DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parr129/LC_DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/parr129/LC_DSA_practice/tree/master/1377-frog-position-after-t-seconds) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/parr129/LC_DSA_practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0834-sum-of-distances-in-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/parr129/LC_DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parr129/LC_DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/parr129/LC_DSA_practice/tree/master/1377-frog-position-after-t-seconds) |
 ## Binary Indexed Tree
@@ -1105,4 +1107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/parr129/LC_DSA_practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/parr129/LC_DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
