@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/parr129/LC_DSA_practice/tree/master/0564-find-the-closest-palindrome) |
 | [0591-tag-validator](https://github.com/parr129/LC_DSA_practice/tree/master/0591-tag-validator) |
 | [0648-replace-words](https://github.com/parr129/LC_DSA_practice/tree/master/0648-replace-words) |
+| [0657-robot-return-to-origin](https://github.com/parr129/LC_DSA_practice/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/parr129/LC_DSA_practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/parr129/LC_DSA_practice/tree/master/0677-map-sum-pairs) |
 | [0686-repeated-string-match](https://github.com/parr129/LC_DSA_practice/tree/master/0686-repeated-string-match) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/parr129/LC_DSA_practice/tree/master/0068-text-justification) |
+| [0657-robot-return-to-origin](https://github.com/parr129/LC_DSA_practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
