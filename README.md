@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/parr129/LC_DSA_practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0638-shopping-offers](https://github.com/parr129/LC_DSA_practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/parr129/LC_DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/parr129/LC_DSA_practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/parr129/LC_DSA_practice/tree/master/0587-erect-the-fence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0638-shopping-offers](https://github.com/parr129/LC_DSA_practice/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/parr129/LC_DSA_practice/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/parr129/LC_DSA_practice/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/parr129/LC_DSA_practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0996-number-of-squareful-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/parr129/LC_DSA_practice/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/parr129/LC_DSA_practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
@@ -1072,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/parr129/LC_DSA_practice/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/parr129/LC_DSA_practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
