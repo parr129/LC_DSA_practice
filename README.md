@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/parr129/LC_DSA_practice/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/parr129/LC_DSA_practice/tree/master/0846-hand-of-straights) |
 | [0854-k-similar-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0854-k-similar-strings) |
+| [0874-walking-robot-simulation](https://github.com/parr129/LC_DSA_practice/tree/master/0874-walking-robot-simulation) |
 | [0895-maximum-frequency-stack](https://github.com/parr129/LC_DSA_practice/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/parr129/LC_DSA_practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parr129/LC_DSA_practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/parr129/LC_DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0874-walking-robot-simulation](https://github.com/parr129/LC_DSA_practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/parr129/LC_DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/parr129/LC_DSA_practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/parr129/LC_DSA_practice/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/parr129/LC_DSA_practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/parr129/LC_DSA_practice/tree/master/0682-baseball-game) |
+| [0874-walking-robot-simulation](https://github.com/parr129/LC_DSA_practice/tree/master/0874-walking-robot-simulation) |
 ## Binary Search
 |  |
 | ------- |
