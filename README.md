@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/parr129/LC_DSA_practice/tree/master/0473-matchsticks-to-square) |
 | [0514-freedom-trail](https://github.com/parr129/LC_DSA_practice/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0552-student-attendance-record-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/parr129/LC_DSA_practice/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parr129/LC_DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/parr129/LC_DSA_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/parr129/LC_DSA_practice/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/parr129/LC_DSA_practice/tree/master/0231-power-of-two) |
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/parr129/LC_DSA_practice/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/parr129/LC_DSA_practice/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/parr129/LC_DSA_practice/tree/master/0526-beautiful-arrangement) |
 | [0691-stickers-to-spell-word](https://github.com/parr129/LC_DSA_practice/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0943-find-the-shortest-superstring](https://github.com/parr129/LC_DSA_practice/tree/master/0943-find-the-shortest-superstring) |
