@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1388-pizza-with-3n-slices](https://github.com/parr129/LC_DSA_practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1388-pizza-with-3n-slices](https://github.com/parr129/LC_DSA_practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/parr129/LC_DSA_practice/tree/master/0936-stamping-the-sequence) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1388-pizza-with-3n-slices](https://github.com/parr129/LC_DSA_practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 ## Bit Manipulation
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/parr129/LC_DSA_practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1388-pizza-with-3n-slices](https://github.com/parr129/LC_DSA_practice/tree/master/1388-pizza-with-3n-slices) |
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
