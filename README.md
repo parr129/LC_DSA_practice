@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1478-allocate-mailboxes](https://github.com/parr129/LC_DSA_practice/tree/master/1478-allocate-mailboxes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2463-minimum-total-distance-traveled](https://github.com/parr129/LC_DSA_practice/tree/master/2463-minimum-total-distance-traveled) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2463-minimum-total-distance-traveled](https://github.com/parr129/LC_DSA_practice/tree/master/2463-minimum-total-distance-traveled) |
 ## Memoization
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2463-minimum-total-distance-traveled](https://github.com/parr129/LC_DSA_practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parr129/LC_DSA_practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
