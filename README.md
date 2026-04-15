@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 | [1416-restore-the-array](https://github.com/parr129/LC_DSA_practice/tree/master/1416-restore-the-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parr129/LC_DSA_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sorting
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2463-minimum-total-distance-traveled](https://github.com/parr129/LC_DSA_practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parr129/LC_DSA_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parr129/LC_DSA_practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
