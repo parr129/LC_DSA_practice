@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [1982-find-array-given-subset-sums](https://github.com/parr129/LC_DSA_practice/tree/master/1982-find-array-given-subset-sums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2179-count-good-triplets-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/parr129/LC_DSA_practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bit Manipulation
 |  |
 | ------- |
