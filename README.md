@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/parr129/LC_DSA_practice/tree/master/1402-reducing-dishes) |
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parr129/LC_DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1377-frog-position-after-t-seconds](https://github.com/parr129/LC_DSA_practice/tree/master/1377-frog-position-after-t-seconds) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parr129/LC_DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1192,4 +1196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/parr129/LC_DSA_practice/tree/master/1192-critical-connections-in-a-network) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
