@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/parr129/LC_DSA_practice/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/parr129/LC_DSA_practice/tree/master/0745-prefix-and-suffix-search) |
 | [0761-special-binary-string](https://github.com/parr129/LC_DSA_practice/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/parr129/LC_DSA_practice/tree/master/0796-rotate-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/parr129/LC_DSA_practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/parr129/LC_DSA_practice/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/parr129/LC_DSA_practice/tree/master/0854-k-similar-strings) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parr129/LC_DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/parr129/LC_DSA_practice/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/parr129/LC_DSA_practice/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/parr129/LC_DSA_practice/tree/master/0796-rotate-string) |
 ## Database
 |  |
 | ------- |
