@@ -1,25 +1,26 @@
 class Solution {
-    public ListNode rotateRight(ListNode h, int k) {
-        if (h == null || h.next == null) return h;
+    public ListNode rotateRight(ListNode head, int k) {
+        if (head == null || head.next == null || k == 0) return head;
 
-        int n = 1;
-        ListNode t = h;
-        while (t.next != null) {
-            t = t.next;
-            n++;
+        ListNode curr = head;
+        int len = 1;
+        while (curr.next != null) {
+            curr = curr.next;
+            len++;
         }
 
-        k %= n;
-        if (k == 0) return h;
+        curr.next = head;
+        k = k % len;
 
-        t.next = h;
-        int s = n - k;
-        ListNode p = t;
+        int steps = len - k;
+        curr = head;
+        for (int i = 0; i < steps - 1; i++) {
+            curr = curr.next;
+        }
 
-        while (s-- > 0) p = p.next;
+        ListNode newHead = curr.next;
+        curr.next = null;
 
-        ListNode r = p.next;
-        p.next = null;
-        return r;
+        return newHead;
     }
 }
