@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/parr129/LC_DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/parr129/LC_DSA_practice/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/parr129/LC_DSA_practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1649-create-sorted-array-through-instructions](https://github.com/parr129/LC_DSA_practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/parr129/LC_DSA_practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/parr129/LC_DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/parr129/LC_DSA_practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1914-cyclically-rotating-a-grid) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/parr129/LC_DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/parr129/LC_DSA_practice/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/parr129/LC_DSA_practice/tree/master/3225-maximum-score-from-grid-operations) |
 ## Design
