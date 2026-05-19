@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/parr129/LC_DSA_practice/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/parr129/LC_DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/parr129/LC_DSA_practice/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/parr129/LC_DSA_practice/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/parr129/LC_DSA_practice/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/parr129/LC_DSA_practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/parr129/LC_DSA_practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parr129/LC_DSA_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/parr129/LC_DSA_practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/parr129/LC_DSA_practice/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/parr129/LC_DSA_practice/tree/master/2784-check-if-array-is-good) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/parr129/LC_DSA_practice/tree/master/0321-create-maximum-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/parr129/LC_DSA_practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2540-minimum-common-value](https://github.com/parr129/LC_DSA_practice/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2179-count-good-triplets-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2540-minimum-common-value](https://github.com/parr129/LC_DSA_practice/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
