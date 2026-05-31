@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/parr129/LC_DSA_practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2126-destroying-asteroids](https://github.com/parr129/LC_DSA_practice/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/parr129/LC_DSA_practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/parr129/LC_DSA_practice/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/parr129/LC_DSA_practice/tree/master/2126-destroying-asteroids) |
 | [2179-count-good-triplets-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/parr129/LC_DSA_practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/parr129/LC_DSA_practice/tree/master/2126-destroying-asteroids) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
