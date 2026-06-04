@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parr129/LC_DSA_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/parr129/LC_DSA_practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/parr129/LC_DSA_practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parr129/LC_DSA_practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/parr129/LC_DSA_practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/parr129/LC_DSA_practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1285,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/parr129/LC_DSA_practice/tree/master/0479-largest-palindrome-product) |
 | [0906-super-palindromes](https://github.com/parr129/LC_DSA_practice/tree/master/0906-super-palindromes) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/parr129/LC_DSA_practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
