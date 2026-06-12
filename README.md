@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parr129/LC_DSA_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/parr129/LC_DSA_practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/parr129/LC_DSA_practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/parr129/LC_DSA_practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/parr129/LC_DSA_practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/parr129/LC_DSA_practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parr129/LC_DSA_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/parr129/LC_DSA_practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/parr129/LC_DSA_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/parr129/LC_DSA_practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/parr129/LC_DSA_practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -965,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/parr129/LC_DSA_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3133-minimum-array-end](https://github.com/parr129/LC_DSA_practice/tree/master/3133-minimum-array-end) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
