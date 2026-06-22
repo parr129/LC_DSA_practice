@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0996-number-of-squareful-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0996-number-of-squareful-arrays) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1189-maximum-number-of-balloons](https://github.com/parr129/LC_DSA_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1345-jump-game-iv](https://github.com/parr129/LC_DSA_practice/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1189-maximum-number-of-balloons](https://github.com/parr129/LC_DSA_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/parr129/LC_DSA_practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parr129/LC_DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/parr129/LC_DSA_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Union-Find
 |  |
