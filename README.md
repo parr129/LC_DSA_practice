@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/parr129/LC_DSA_practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parr129/LC_DSA_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/parr129/LC_DSA_practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/parr129/LC_DSA_practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/parr129/LC_DSA_practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
@@ -1074,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parr129/LC_DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1377-frog-position-after-t-seconds](https://github.com/parr129/LC_DSA_practice/tree/master/1377-frog-position-after-t-seconds) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Indexed Tree
 |  |
@@ -1193,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Data Stream
 |  |
@@ -1267,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parr129/LC_DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bitmask
 |  |
 | ------- |
