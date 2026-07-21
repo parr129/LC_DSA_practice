@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/parr129/LC_DSA_practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/parr129/LC_DSA_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/parr129/LC_DSA_practice/tree/master/3838-weighted-word-mapping) |
@@ -1394,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/parr129/LC_DSA_practice/tree/master/0906-super-palindromes) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/parr129/LC_DSA_practice/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/parr129/LC_DSA_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/parr129/LC_DSA_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/parr129/LC_DSA_practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Strongly Connected Component
 |  |
