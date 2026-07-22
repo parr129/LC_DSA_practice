@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/parr129/LC_DSA_practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/parr129/LC_DSA_practice/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/parr129/LC_DSA_practice/tree/master/3838-weighted-word-mapping) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parr129/LC_DSA_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/parr129/LC_DSA_practice/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/parr129/LC_DSA_practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/parr129/LC_DSA_practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/parr129/LC_DSA_practice/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/parr129/LC_DSA_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/parr129/LC_DSA_practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3161-block-placement-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
