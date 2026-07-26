@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/parr129/LC_DSA_practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0502-ipo](https://github.com/parr129/LC_DSA_practice/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0761-special-binary-string](https://github.com/parr129/LC_DSA_practice/tree/master/0761-special-binary-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/parr129/LC_DSA_practice/tree/master/0479-largest-palindrome-product) |
 | [0564-find-the-closest-palindrome](https://github.com/parr129/LC_DSA_practice/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/parr129/LC_DSA_practice/tree/master/0587-erect-the-fence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/parr129/LC_DSA_practice/tree/master/0782-transform-to-chessboard) |
 | [0788-rotated-digits](https://github.com/parr129/LC_DSA_practice/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/parr129/LC_DSA_practice/tree/master/0805-split-array-with-same-average) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/parr129/LC_DSA_practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/parr129/LC_DSA_practice/tree/master/0587-erect-the-fence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/parr129/LC_DSA_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/parr129/LC_DSA_practice/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/parr129/LC_DSA_practice/tree/master/0648-replace-words) |
