@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/parr129/LC_DSA_practice/tree/master/0906-super-palindromes) |
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
 | [0996-number-of-squareful-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0996-number-of-squareful-arrays) |
+| [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/parr129/LC_DSA_practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/parr129/LC_DSA_practice/tree/master/0975-odd-even-jump) |
 | [0996-number-of-squareful-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/parr129/LC_DSA_practice/tree/master/1125-smallest-sufficient-team) |
+| [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/parr129/LC_DSA_practice/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1301-number-of-paths-with-max-score](https://github.com/parr129/LC_DSA_practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parr129/LC_DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1125-smallest-sufficient-team](https://github.com/parr129/LC_DSA_practice/tree/master/1125-smallest-sufficient-team) |
+| [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1260-shift-2d-grid) |
@@ -1207,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parr129/LC_DSA_practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/parr129/LC_DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/parr129/LC_DSA_practice/tree/master/1732-find-the-highest-altitude) |
@@ -1399,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/parr129/LC_DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/parr129/LC_DSA_practice/tree/master/0464-can-i-win) |
 | [0877-stone-game](https://github.com/parr129/LC_DSA_practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 ## Rolling Hash
 |  |
@@ -1456,9 +1461,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
