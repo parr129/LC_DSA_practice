@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/parr129/LC_DSA_practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parr129/LC_DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parr129/LC_DSA_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parr129/LC_DSA_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parr129/LC_DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1982-find-array-given-subset-sums](https://github.com/parr129/LC_DSA_practice/tree/master/1982-find-array-given-subset-sums) |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/parr129/LC_DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/parr129/LC_DSA_practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/parr129/LC_DSA_practice/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/parr129/LC_DSA_practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parr129/LC_DSA_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1304,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parr129/LC_DSA_practice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/parr129/LC_DSA_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parr129/LC_DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1416,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/parr129/LC_DSA_practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1474,9 +1479,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
