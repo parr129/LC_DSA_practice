@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 | [1416-restore-the-array](https://github.com/parr129/LC_DSA_practice/tree/master/1416-restore-the-array) |
 | [1871-jump-game-vii](https://github.com/parr129/LC_DSA_practice/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/parr129/LC_DSA_practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parr129/LC_DSA_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/parr129/LC_DSA_practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parr129/LC_DSA_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/parr129/LC_DSA_practice/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/parr129/LC_DSA_practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parr129/LC_DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/parr129/LC_DSA_practice/tree/master/1405-longest-happy-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/parr129/LC_DSA_practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/parr129/LC_DSA_practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/parr129/LC_DSA_practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parr129/LC_DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/parr129/LC_DSA_practice/tree/master/2126-destroying-asteroids) |
@@ -1438,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/parr129/LC_DSA_practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/2029-stone-game-ix) |
 ## Rolling Hash
 |  |
