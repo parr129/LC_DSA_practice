@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parr129/LC_DSA_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/parr129/LC_DSA_practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parr129/LC_DSA_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parr129/LC_DSA_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parr129/LC_DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/parr129/LC_DSA_practice/tree/master/3093-longest-common-suffix-queries) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
 | [1871-jump-game-vii](https://github.com/parr129/LC_DSA_practice/tree/master/1871-jump-game-vii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parr129/LC_DSA_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parr129/LC_DSA_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parr129/LC_DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
