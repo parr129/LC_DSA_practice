@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/parr129/LC_DSA_practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parr129/LC_DSA_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/parr129/LC_DSA_practice/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/parr129/LC_DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parr129/LC_DSA_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/parr129/LC_DSA_practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parr129/LC_DSA_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parr129/LC_DSA_practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/parr129/LC_DSA_practice/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/parr129/LC_DSA_practice/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/parr129/LC_DSA_practice/tree/master/3660-jump-game-ix) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parr129/LC_DSA_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/parr129/LC_DSA_practice/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parr129/LC_DSA_practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parr129/LC_DSA_practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/parr129/LC_DSA_practice/tree/master/3620-network-recovery-pathways) |
