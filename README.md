@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/parr129/LC_DSA_practice/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/parr129/LC_DSA_practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1254-number-of-closed-islands](https://github.com/parr129/LC_DSA_practice/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/parr129/LC_DSA_practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/parr129/LC_DSA_practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/parr129/LC_DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/parr129/LC_DSA_practice/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/parr129/LC_DSA_practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parr129/LC_DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/parr129/LC_DSA_practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/parr129/LC_DSA_practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/parr129/LC_DSA_practice/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/parr129/LC_DSA_practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/parr129/LC_DSA_practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1306-jump-game-iii) |
@@ -1098,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/parr129/LC_DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/parr129/LC_DSA_practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/parr129/LC_DSA_practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/parr129/LC_DSA_practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1301-number-of-paths-with-max-score](https://github.com/parr129/LC_DSA_practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -1452,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/parr129/LC_DSA_practice/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/parr129/LC_DSA_practice/tree/master/0839-similar-string-groups) |
 | [1020-number-of-enclaves](https://github.com/parr129/LC_DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/parr129/LC_DSA_practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parr129/LC_DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parr129/LC_DSA_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
