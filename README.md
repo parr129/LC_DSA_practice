@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/parr129/LC_DSA_practice/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/parr129/LC_DSA_practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/parr129/LC_DSA_practice/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/parr129/LC_DSA_practice/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parr129/LC_DSA_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1427,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parr129/LC_DSA_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/parr129/LC_DSA_practice/tree/master/1499-max-value-of-equation) |
+| [1882-process-tasks-using-servers](https://github.com/parr129/LC_DSA_practice/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/parr129/LC_DSA_practice/tree/master/3620-network-recovery-pathways) |
