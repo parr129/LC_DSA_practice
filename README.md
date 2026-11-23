@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/parr129/LC_DSA_practice/tree/master/0920-number-of-music-playlists) |
 | [0996-number-of-squareful-arrays](https://github.com/parr129/LC_DSA_practice/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parr129/LC_DSA_practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/parr129/LC_DSA_practice/tree/master/1406-stone-game-iii) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/parr129/LC_DSA_practice/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/parr129/LC_DSA_practice/tree/master/1345-jump-game-iv) |
 | [1349-maximum-students-taking-exam](https://github.com/parr129/LC_DSA_practice/tree/master/1349-maximum-students-taking-exam) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1363-largest-multiple-of-three](https://github.com/parr129/LC_DSA_practice/tree/master/1363-largest-multiple-of-three) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parr129/LC_DSA_practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1383-maximum-performance-of-a-team](https://github.com/parr129/LC_DSA_practice/tree/master/1383-maximum-performance-of-a-team) |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/parr129/LC_DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/parr129/LC_DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/parr129/LC_DSA_practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/parr129/LC_DSA_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parr129/LC_DSA_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parr129/LC_DSA_practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1427,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/parr129/LC_DSA_practice/tree/master/0745-prefix-and-suffix-search) |
 | [0895-maximum-frequency-stack](https://github.com/parr129/LC_DSA_practice/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/parr129/LC_DSA_practice/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/parr129/LC_DSA_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2069-walking-robot-simulation-ii](https://github.com/parr129/LC_DSA_practice/tree/master/2069-walking-robot-simulation-ii) |
 ## Heap (Priority Queue)
@@ -1468,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/parr129/LC_DSA_practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parr129/LC_DSA_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parr129/LC_DSA_practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Combinatorics
 |  |
 | ------- |
